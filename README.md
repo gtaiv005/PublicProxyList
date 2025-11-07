@@ -1,6 +1,6 @@
 # Public Proxy List
 - [roosterkid/openproxylist](https://github.com/roosterkid/openproxylist/tree/main)  
-  > `https` `socks4` `socks5` `vless` `shadowsocsk` `vmess`
+  > `https` `socks4` `socks5` `vless` `shadowsocks` `vmess`
 
 - [dinoz0rg/proxy-list](https://github.com/dinoz0rg/proxy-list/tree/main)  
   > `http` `socks4` `socks5`
